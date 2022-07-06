@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/powerSupplyUnit/Engine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/powerSupplyUnit/NuclearReactor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/powerSupplyUnit/PowerSupplyUnit.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/robots/CookBot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/robots/Robot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/robots/WarBot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/robots/WeldingBot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/wayOfMoving/Caterpillars.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/wayOfMoving/Legs.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/wayOfMoving/WayOfMoving.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/wayOfMoving/Wings.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/weapons/MachineGun.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/weapons/Sword.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/weapons/Weapon.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
